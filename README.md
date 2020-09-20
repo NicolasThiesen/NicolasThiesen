@@ -10,3 +10,5 @@
 - 🤔 I’m looking for help with my Open Source Project called BreathPanel ( for Respirators ).  
 
 [![AWS Certified Cloud Practitioner](https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png)](https://www.youracclaim.com/badges/c42caa72-b92e-45ec-8d26-0f22cb3da49d/public_url)
+<img height="110px" alt="AWS Educate Cyber Security Specialist" src="https://www.awseducate.com/student/resource/DigitalCredentials/cybersecurity-specialist.png"/>
+<img height="110px" alt="AWS Educate Solutions Architect" src="https://www.awseducate.com/student/resource/DigitalCredentials/solutions-architect.png"/>
