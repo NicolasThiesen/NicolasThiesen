@@ -13,7 +13,7 @@
 
 - 💪 I'm representing Santa Catarina in the Cloud Computing Competency of the WorldSkills Challenge.
 - 🎓 Studying Analysis and Systems Development in University.
-- 🚩 I’m an AWS Estudent Ambassador.
+- 🚩 I’m an AWS Student Ambassador.
 - 🤔 I’m looking for help with my Open Source Project called BreathPanel ( for Respirators ).  
 
 ## Badges🏅
