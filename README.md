@@ -17,8 +17,8 @@
 - 🤔 I’m looking for help with my Open Source Project called BreathPanel ( for Respirators ).  
 
 ## Badges🏅
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d738b29e-6b23-478a-9112-cdc707099219" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63546228-3ceb-44f9-948d-53671aafa5e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1194f16d-5ff0-4939-b1c3-27dba16e27bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/63546228-3ceb-44f9-948d-53671aafa5e0/public_url"><img height="110px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/> </a>
+<a href="https://www.credly.com/badges/1194f16d-5ff0-4939-b1c3-27dba16e27bb/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/> </a>
+<a href="https://www.credly.com/badges/d738b29e-6b23-478a-9112-cdc707099219/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/> </a>
 <img height="110px" alt="AWS Educate Cyber Security Specialist" src="https://www.awseducate.com/student/resource/DigitalCredentials/cybersecurity-specialist.png"/>
 <img height="110px" alt="AWS Educate Solutions Architect" src="https://www.awseducate.com/student/resource/DigitalCredentials/solutions-architect.png"/>
