@@ -17,7 +17,8 @@
 - 🤔 I’m looking for help with my Open Source Project called BreathPanel ( for Respirators ).  
 
 ## Badges🏅
-<a href="https://www.credly.com/badges/63546228-3ceb-44f9-948d-53671aafa5e0/public_url"><img height="110px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"/> </a>
-<a href="https://www.youracclaim.com/badges/c42caa72-b92e-45ec-8d26-0f22cb3da49d/public_url"><img alt="AWS Certified Cloud Practitioner" src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png"/></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d738b29e-6b23-478a-9112-cdc707099219" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63546228-3ceb-44f9-948d-53671aafa5e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1194f16d-5ff0-4939-b1c3-27dba16e27bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <img height="110px" alt="AWS Educate Cyber Security Specialist" src="https://www.awseducate.com/student/resource/DigitalCredentials/cybersecurity-specialist.png"/>
 <img height="110px" alt="AWS Educate Solutions Architect" src="https://www.awseducate.com/student/resource/DigitalCredentials/solutions-architect.png"/>
